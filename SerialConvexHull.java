@@ -1,4 +1,3 @@
-//SerialConvexHull.java
 package Project;
 
 import java.util.ArrayList;
